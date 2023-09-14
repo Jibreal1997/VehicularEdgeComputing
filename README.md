@@ -1,5 +1,7 @@
 # VehicularEdgeComputing
-This repository consists of the implementations of 7 Vehicular Edge Computing Algorithms
+This repository consists of the implementations of 7 Vehicular Edge Computing Algorithms in Python. 
+
+Note: Some of the algorithms require the user to have a free license for Gurobi solver, this is required to obtain the optimal values for certain variables. The free license can be obtained from https://www.gurobi.com/
 
 # Algorithm 1
 Paper: Computation Offloading and Resource Allocation For Cloud Assisted Mobile Edge Computing in Vehicular Networks
